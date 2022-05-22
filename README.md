@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hunter171
 
-<!--
-**Hunter-171/Hunter-171** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi my name is Hunter171.
 
-Here are some ideas to get you started:
+### Currently working on:
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming language:
+  Java
+  Python
+  Batch ( Insane Hacker... Will ping ur ip 😈)
+
+### I want to learn...
+  C, C#, C++
+  NodeJS
+  HTML
+  CSS
+  PHP
+
+### Languages
+    Norwegian (Native)
+    English (Fluent)
+    Spanish (¿Que?)
+
+### Pronouns:
+    Him
+    He
+
+### Blockchain
+  Litecoin (LTC) Wallet: LhVZhG3NpP8BGDQFcEoBiFjBprwRyN8fM5
+  Bitcoin  (BTC) Wallet: bc1qm0qfam5j0lpk52p483cghgtw3kpcjnw0c05dcm
+  Monero   (XMR) Wallet: 45JB3pFWvQVQv34ww1jznP5uEwfUXVNkaP5tVVfQK6xPKBAXa3zzSGZLTkemvEB3MUThjVsbH483PMG1abRdQz9z7RYN95r
