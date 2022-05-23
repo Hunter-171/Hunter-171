@@ -1,5 +1,7 @@
 ### 👋 Hi my name is Hunter171.
-    
+    Hunter171#8214
+
+
 
 ## Currently working on:
     Hello World
@@ -7,7 +9,7 @@
 ## Programming language:
     Java
     Python
-    Batch ( Insane Hacker... Will ping ur ip 😈)
+    Batch (Insane Hacker... Will ping ur ip 😈)
 
 ## I want to learn...
     C, C#, C++
@@ -19,9 +21,6 @@
 
 ## Metrics
 ![Metrics](https://metrics.lecoq.io/Hunter-171)
-
-## Contact
-    You can contact me on Discord: Hunter171#8214
 
 ## Blockchain
     Litecoin (LTC) Wallet: LhVZhG3NpP8BGDQFcEoBiFjBprwRyN8fM5
