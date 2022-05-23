@@ -18,7 +18,7 @@
 
 
 ## Metrics
-    ![Metrics](https://metrics.lecoq.io/Hunter-171)
+![Metrics](https://metrics.lecoq.io/Hunter-171)
 
 ## Contact
     You can contact me on Discord: Hunter171#8214
