@@ -5,6 +5,8 @@
 
 ## Currently working on:
     Hello World
+    Minecraft AntiCheat
+    Minecraft Client
 
 ## Programming language:
     Java
