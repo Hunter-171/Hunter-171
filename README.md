@@ -8,13 +8,16 @@
     Minecraft AntiCheat
     Minecraft Client
 
-## Programming language:
+## Programming languages
     Java
     Python
     Batch (Insane Hacker... Will ping ur ip 😈)
 
+## Currently learning
+    C++
+
 ## I want to learn...
-    C, C#, C++
+    C, C#
     NodeJS
     HTML
     CSS
