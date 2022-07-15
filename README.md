@@ -3,6 +3,7 @@
 
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hunter-171&show_icons=true&icon_color=805AD5&text_color=666666&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=false&hide=contribs)"></p>
 <h1>About Me</h1>
+<h2>About me</h2>
 <br>
 My projects:
 <br>
