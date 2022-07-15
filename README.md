@@ -1,33 +1,32 @@
-# 👋 Hi my name is Hunter171.
-    Hunter171#8214
+<h1 align="center">Hunter171</h1>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Hunter-171&show_icons=true&icon_color=805AD5&text_color=666666&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=false&hide=contribs)"></p>
+
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hunter-171&show_icons=true&icon_color=805AD5&text_color=666666&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=false&hide=contribs)"></p>
+<h1>Me</h1>
+<h2>About me</h2>
+
+My discord : dadik#1337<br>
+My projects: <br>
+- Minecraft AntiCheat
+- Minecraft Client
 
 
+<h2>JSON</h2>
 
-## Currently working on:
-    Hello World
-    Minecraft AntiCheat
-    Minecraft Client
-
-## Programming languages
-    Java
-    Python
-    Batch (Insane Hacker... Will ping ur ip 😈)
-
-## Currently learning
-    C++
-
-## I want to learn...
-    C, C#
-    NodeJS
-    HTML
-    CSS
-    PHP
-
-
-## Metrics
-![Metrics](https://metrics.lecoq.io/Hunter-171)
-
-## Blockchain
-    Litecoin (LTC) Wallet: LhVZhG3NpP8BGDQFcEoBiFjBprwRyN8fM5
-    Bitcoin  (BTC) Wallet: bc1qm0qfam5j0lpk52p483cghgtw3kpcjnw0c05dcm
-    Monero   (XMR) Wallet: 45JB3pFWvQVQv34ww1jznP5uEwfUXVNkaP5tVVfQK6xPKBAXa3zzSGZLTkemvEB3MUThjVsbH483PMG1abRdQz9z7RYN95r
+```json
+{
+  "discord":{
+    "username":"Hunter171",
+    "discriminator":"0171",
+    "tag":"Hunter171#0171"
+  },
+  "projects":[
+    {
+      "name":"Minecraft AntiCheat"
+      "links":[
+          "https://walbin.lol"
+      ]
+    }
+  ]
+}
+```
