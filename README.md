@@ -16,19 +16,12 @@ My projects:
 
 ```json
 {
-  "discord":{
-    "username":"Hunter171",
-    "discriminator":"0171",
-    "tag":"Hunter171#0171"
-  },
   "projects":[
     {
       "name":"Minecraft AntiCheat"
-      "links":[
-          "https://discord.gg/AtSkgxVa"
-      ]
       "name":"Minecraft Client"
     }
   ]
 }
 ```
+https://komarev.com/ghpvc/?username=PiggyAwesome&label=Profile%20views&color=0e75b6&style=for-the-badge
