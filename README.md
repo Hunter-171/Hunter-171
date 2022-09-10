@@ -24,4 +24,4 @@ My projects:
   ]
 }
 ```
-[https://komarev.com/ghpvc/?username=PiggyAwesome&label=Profile%20views&color=0e75b6&style=for-the-badge](https://komarev.com/ghpvc/?username=Hunter-171&label=Profile views&color=0e75b6&style=for-the-badge)
+ <img src="[https://komarev.com/ghpvc/?username=PiggyAwesome&label=Profile%20views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=Hunter-171&label=Profile views&color=0e75b6&style=for-the-badge)" alt="Hunter171" />
