@@ -24,4 +24,4 @@ My projects:
   ]
 }
 ```
- <img src="[https://komarev.com/ghpvc/?username=PiggyAwesome&label=Profile%20views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=Hunter-171&label=Profile views&color=0e75b6&style=for-the-badge)" alt="Hunter171" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hunter-171&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Hunter171" /> <a href="[https://discord.gg/BJv2TDVEQH](https://komarev.com/ghpvc/?username=Hunter-171&label=Profile%20views&color=0e75b6&style=for-the-badge)">
