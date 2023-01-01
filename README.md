@@ -11,6 +11,7 @@
   <img src="https://github.com/Body-Alhoha/Body-Alhoha/raw/main/javascript.svg" width="32" height="32" alt="JS"/>
   <img src="https://github.com/Body-Alhoha/Body-Alhoha/raw/main/python.svg" width="32" height="32" alt="Python"/>
   <img src="https://github.com/Body-Alhoha/Body-Alhoha/raw/main/java.svg" width="32" height="32" alt="Java"/>
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/minecraft_logo_icon_168974.png" width="32" height="32" alt="Minecraft"/>
 </p>
 <br>
 <h2 align="center">Projects</h2>
