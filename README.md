@@ -1,27 +1,18 @@
 <h1 align="center">Hunter171</h1>
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Hunter-171&show_icons=true&icon_color=805AD5&text_color=666666&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=false&hide=contribs)"></p>
 
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hunter-171&show_icons=true&icon_color=805AD5&text_color=666666&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=false&hide=contribs)"></p>
-<h1>About me</h1>
+<h2 align="center">About me</h2>
 
-My discord : Hunter171#0171
+<p align="center">discord : Hunter171#0171</p>
 <br>
-My projects:
+<h3 align="center">I use</h3>
+<p align="center">
+  <img src="https://github.com/Body-Alhoha/Body-Alhoha/raw/main/html5.svg" width="32" height="32" alt="HTML"/>
+  <img src="https://github.com/Body-Alhoha/Body-Alhoha/raw/main/css3.svg" width="32" height="32" alt="CSS"/>
+  <img src="https://github.com/Body-Alhoha/Body-Alhoha/raw/main/javascript.svg" width="32" height="32" alt="JS"/>
+  <img src="https://github.com/Body-Alhoha/Body-Alhoha/raw/main/python.svg" width="32" height="32" alt="Python"/>
+  <img src="https://github.com/Body-Alhoha/Body-Alhoha/raw/main/java.svg" width="32" height="32" alt="Java"/>
+</p>
 <br>
-- Minecraft AntiCheat
-- Minecraft Client
+<h2 align="center">Projects</h2>
 
-
-<h2>JSON</h2>
-
-```json
-{
-  "projects":[
-    {
-      "name":"Minecraft AntiCheat"
-      "name":"Minecraft Client"
-    }
-  ]
-}
-```
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hunter-171&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Hunter171" /> <a href="[https://discord.gg/BJv2TDVEQH](https://komarev.com/ghpvc/?username=Hunter-171&label=Profile%20views&color=0e75b6&style=for-the-badge)">
+<p align="center"><b>Minecraft AntiCheat</b></p>
