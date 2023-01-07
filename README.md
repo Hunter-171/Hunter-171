@@ -1,8 +1,6 @@
 <h1 align="center">Hunter171</h1>
 
 <h2 align="center">About me</h2>
-
-<p align="center">discord : Hunter171#0171</p>
 <br>
 <h3 align="center">I use</h3>
 <p align="center">
