@@ -12,6 +12,6 @@
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/minecraft_logo_icon_168974.png" width="32" height="32" alt="Minecraft"/>
 </p>
 <br>
-<h2 align="center">Projects</h2>
+<h2 align="center">Current Projects</h2>
 
 <p align="center"><b>Minecraft AntiCheat</b></p>
