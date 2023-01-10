@@ -2,7 +2,7 @@
 
 <h2 align="center">About me</h2>
 <br>
-<h3 align="center">I use</h3>
+<h3 align="center">I'm learning</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="32" height="32" alt="HTML"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="32" height="32" alt="CSS"/>
@@ -11,7 +11,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32" height="32" alt="Java"/>
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/minecraft_logo_icon_168974.png" width="32" height="32" alt="Minecraft"/>
 </p>
-<h3 align="center">learning/wanting to learn</h3>
+<h3 align="center">I want to learn</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="32" height="32" alt="Arduino"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="32" height="32" alt="Kotlin"/>
