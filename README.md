@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,kotlin,c,cs,cpp,docker,php" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,mongodb,unity,arduino,kotlin,c,cs,cpp,docker,php,raspberrypi,regex,rust" />
   </a>
 </p>
 <br>
