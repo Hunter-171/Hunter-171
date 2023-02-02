@@ -18,4 +18,4 @@
 <br>
 <h2 align="center">Current Projects</h2>
 
-<p align="center"><b>Minecraft AntiCheat</b></p>
+<p align="center" style="font-family: Consolas"><b>Minecraft AntiCheat</b></p>
