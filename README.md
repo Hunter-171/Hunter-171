@@ -1,6 +1,4 @@
 <h1 align="center">Hunter171</h1>
-
-<h2 align="center">About me</h2>
 <br>
 <h3 align="center">I'm learning</h3>
 
