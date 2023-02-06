@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,mongodb,unity,arduino,kotlin,c,cs,cpp,docker,php,raspberrypi,regex,rust" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,mongodb,unity,arduino,kotlin,c,cs,cpp,docker,php,raspberrypi,regex,rust,blender,dotnet,rust&perline=8" />
   </a>
 </p>
 <br>
