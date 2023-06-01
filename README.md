@@ -13,6 +13,15 @@
 </p>
 <br>
 <h2 align="center">Current Projects</h2>
-<p align="center" style="font-family: Consolas"><b>Minecraft AntiCheat/Client</b></p>
+<p align="center" style="font-family: Consolas">
+  <b>
+    Instagram Bots
+  </b>
+</p>
+<p align="center" style="font-family: Consolas">
+  <b>
+    Minecraft AntiCheat/Client
+  </b>
+</p>
 
 <img src="https://svgshare.com/i/q66.svg">
