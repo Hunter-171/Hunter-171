@@ -23,12 +23,12 @@
 <h2 align="center">ＣＵＲＲＥＮＴ ＰＲＯＪＥＣＴＳ</h2>
 <p align="center" style="font-family: Consolas">
   <b>
-    Instagram Bots/Automation
+    Captcha Technologies and related
   </b>
 </p>
 <p align="center" style="font-family: Consolas">
   <b>
-    Minecraft AntiCheat/Client
+    Minecraft Cheat Detection
   </b>
 </p>
 
