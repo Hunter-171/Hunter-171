@@ -6,7 +6,7 @@
 <h3 align="center">ＬＥＡＲＮＩＮＧ</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,html,css,js,typescript,nodejs,react,express" />
+    <img src="https://skillicons.dev/icons?i=python,java,html,css,js,typescript,nodejs,react,nextjs,express" />
   </a>
 </p>
 <br>
@@ -14,7 +14,7 @@
 <h3 align="center">ＩＮＴＲＥＳＴＥＤ ＩＮ ＬＥＡＲＮＩＮＧ</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,mongodb,unity,tensorflow,kotlin,c,cs,cpp,lua,docker,php,raspberrypi,regex,blender,rust,dotnet,arduino,svelte&perline=9" />
+    <img src="https://skillicons.dev/icons?i=go,mongodb,unity,tensorflow,kotlin,c,cs,cpp,lua,docker,php,raspberrypi,regex,blender,rust,dotnet,arduino,svelte,wasm,ocaml&perline=10" />
   </a>
 </p>
 <br>
