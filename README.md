@@ -23,6 +23,11 @@
 <h2 align="center">ＣＵＲＲＥＮＴ ＰＲＯＪＥＣＴＳ</h2>
 <p align="center" style="font-family: Consolas">
   <b>
+    JavaScript Code De/Obfuscator
+  </b>
+</p>
+<p align="center" style="font-family: Consolas">
+  <b>
     Captcha Technologies and related
   </b>
 </p>
